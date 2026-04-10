@@ -1,12 +1,12 @@
 # QA-tester-Porfolio.
-## 👩‍🎓 About Me
+## About Me
 
 - IT Student
 - Passionate about Software Testing & Quality Assurance
 - Skilled in Manual Testing
 - Currently learning Automation Testing
 
-## 🛠 Skills
+## Skills
 
 - Manual Testing
 - Test Case Design
@@ -22,13 +22,13 @@
 
 ## 📄 Resume
 
-👉 [Download My Resume](./resume/Helly_Resume.pdf)
+ [Download My Resume](./resume/Helly_Resume.pdf)
 
 ---
 
-## 📊 Projects
+##  Projects
 
-### 🏫 College Management System Testing
+### College Management System Testing
 
 This project involves testing a College Management System with modules like:
 
@@ -38,19 +38,19 @@ This project involves testing a College Management System with modules like:
 - Attendance
 - Profile Management
 
-📌 **Testing Includes:**
+ **Testing Includes:**
 - Functional Testing
 - UI Testing
 - Negative Testing
 
-👉 [View Test cases:](./projects/college-management-system.md)
+ [View Test cases](./projects/college-management-system.md)
 
 
-## 🐞 Bug Reports
+## Bug Reports
 
-## 📸 Screenshots
+## Screenshots
 
-## 🚀 Tools Used
+## Tools Used
 
 - Excel (Test Cases & Bug Reports)
 - Chrome DevTools
@@ -58,7 +58,7 @@ This project involves testing a College Management System with modules like:
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 - Email: solankihelly28@gmail.com
 - LinkedIn:
