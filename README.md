@@ -1,4 +1,6 @@
 # QA-tester-Porfolio.
+* [About Me](#-about-me)
+* [Skills](#-skills)
 ## About Me
 
 - IT Student
