@@ -51,7 +51,7 @@ This project involves testing a College Management System with modules like:
 - UI Testing
 - Negative Testing
 
-[View Test cases : https://1drv.ms/x/c/6ea2c554f93bd697/IQALIHtCurfYT5h7xoNc4zHCAdBQQlNnDix0kfeN3kZTZLI?e=ftGZHl](https://1drv.ms/x/c/6ea2c554f93bd697/IQALIHtCurfYT5h7xoNc4zHCAdBQQlNnDix0kfeN3kZTZLI?e=ftGZHl)
+[View Test cases : https://1drv.ms/x/c/6ea2c554f93bd697/IQALIHtCurfYT5h7xoNc4zHCAdBQQlNnDix0kfeN3kZTZLI?e=cCgm2e](https://1drv.ms/x/c/6ea2c554f93bd697/IQALIHtCurfYT5h7xoNc4zHCAdBQQlNnDix0kfeN3kZTZLI?e=cCgm2e)
 
 
 ## Bug Reports
