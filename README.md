@@ -1,7 +1,7 @@
 # QA-tester-Porfolio.
-* [About Me](#-About-me)
-* [Skills](#-Skills)
-* [Skills](#-Resume)
+* [About Me](#-about-me)
+* [Skills](#-skills)
+* [Resume](#-resume)
 ## About Me
 
 - IT Student
