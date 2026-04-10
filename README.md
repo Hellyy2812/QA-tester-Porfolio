@@ -38,7 +38,6 @@
 ##  Projects
 
 ### College Management System Testing
-
 This project involves testing a College Management System with modules like:
 - Login
 - Registration
@@ -55,21 +54,20 @@ This project involves testing a College Management System with modules like:
 
 
 ## Bug Reports
-
-## Screenshots
+- Bug report for College management system : [View Bug Report : https://1drv.ms/x/c/6ea2c554f93bd697/IQAEv9T6BywRQKr-B52_clWpAQd1cljLN5H5tGfOMo9qkVQ?e=Twc3DL](https://1drv.ms/x/c/6ea2c554f93bd697/IQAEv9T6BywRQKr-B52_clWpAQd1cljLN5H5tGfOMo9qkVQ?e=Twc3DL)
+- 
 
 ## Tools Used
 
 - Excel (Test Cases & Bug Reports)
 - Chrome DevTools
+- JIRA
 - GitHub
-
----
 
 ## Contact Me
 
 - Email: solankihelly28@gmail.com
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/helly-solanki-b583b2262?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 - Portfolio link : https://hellyy2812.github.io/hellysolanki/
 
 ---
