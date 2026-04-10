@@ -11,14 +11,19 @@
 
 ## Skills
 
-- Manual Testing
+### Manual Testing:
+- can perform manual functional and usability testing of web applications and software.
+- gained hands-on experience by testing applications created for educational purposes.
+### Python fundamentals:
+- can write simple functions and algorithms.
+- learning how to work with automation tools like Selenium.
+### Other technical skills:
 - Test Case Design
 - Bug Reporting
 - SDLC & STLC
 - Functional Testing
 - Regression Testing
 - UI Testing
-- Basic Python
 - Mern Stack developer
 
 ---
