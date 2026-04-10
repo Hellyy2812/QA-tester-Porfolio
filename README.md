@@ -8,7 +8,7 @@
 - IT Student
 - Passionate about Software Testing & Quality Assurance
 - Skilled in Manual Testing
-- Currently learning Automation Testing
+- Currently learning Automation Testing in Selenium(python)
 
 ## Skills
 
