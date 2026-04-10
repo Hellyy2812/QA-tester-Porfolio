@@ -1,6 +1,7 @@
 # QA-tester-Porfolio.
-* [About Me](#-about-me)
-* [Skills](#-skills)
+* [About Me](#-About-me)
+* [Skills](#-Skills)
+* [Skills](#-Resume)
 ## About Me
 
 - IT Student
@@ -22,7 +23,7 @@
 
 ---
 
-## 📄 Resume
+## Resume
 
  [Download My Resume](./resume/Helly_Resume.pdf)
 
