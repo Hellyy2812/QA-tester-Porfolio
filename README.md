@@ -2,6 +2,7 @@
 * [About Me](#about-me)
 * [Skills](#skills)
 * [Resume](#resume)
+* [Projects](#projects)
 ## About Me
 
 - IT Student
@@ -39,7 +40,6 @@
 ### College Management System Testing
 
 This project involves testing a College Management System with modules like:
-
 - Login
 - Registration
 - Student Dashboard
